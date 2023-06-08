@@ -1,0 +1,193 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftFluentEmoji",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FluentEmoji",
+        "printedName": "FluentEmoji",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FluentEmoji",
+                "printedName": "SwiftFluentEmoji.FluentEmoji",
+                "usr": "s:16SwiftFluentEmoji0bC0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16SwiftFluentEmoji0bC0C6sharedACvpZ",
+            "mangledName": "$s16SwiftFluentEmoji0bC0C6sharedACvpZ",
+            "moduleName": "SwiftFluentEmoji",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FluentEmoji",
+                    "printedName": "SwiftFluentEmoji.FluentEmoji",
+                    "usr": "s:16SwiftFluentEmoji0bC0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SwiftFluentEmoji0bC0C6sharedACvgZ",
+                "mangledName": "$s16SwiftFluentEmoji0bC0C6sharedACvgZ",
+                "moduleName": "SwiftFluentEmoji",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "getSVG",
+            "printedName": "getSVG(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16SwiftFluentEmoji0bC0C6getSVG3for10Foundation4DataVSgSS_tF",
+            "mangledName": "$s16SwiftFluentEmoji0bC0C6getSVG3for10Foundation4DataVSgSS_tF",
+            "moduleName": "SwiftFluentEmoji",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:16SwiftFluentEmoji0bC0C",
+        "mangledName": "$s16SwiftFluentEmoji0bC0C",
+        "moduleName": "SwiftFluentEmoji",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "IntegerLiteral",
+      "offset": 255,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 13,
+      "value": "\"not equal 1\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "BooleanLiteral",
+      "offset": 394,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 424,
+      "length": 11,
+      "value": "\"not emoji\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "IntegerLiteral",
+      "offset": 555,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 609,
+      "length": 6,
+      "value": "\"fe0f\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 3,
+      "value": "\"_\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 704,
+      "length": 10,
+      "value": "\"fluent_u\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 870,
+      "length": 5,
+      "value": "\"svg\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 1117,
+      "length": 13,
+      "value": "\"url missing\""
+    }
+  ]
+}

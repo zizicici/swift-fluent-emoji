@@ -1,0 +1,11 @@
+framework module SwiftFluentEmoji {
+  umbrella header "SwiftFluentEmoji.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftFluentEmoji.Swift {
+  header "SwiftFluentEmoji-Swift.h"
+  requires objc
+}
