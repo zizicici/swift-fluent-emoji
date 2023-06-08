@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rszbuijVXWZOCfU5K24LUJaJJ5g=
+		pae74RHpmsF3k2QPDrxpzXpT70Y=
 		</data>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		p9xlbPgGEfeniTRxHjj/YtZIrnM=
+		/mqqLvXG3qJrcZE8j8VzPemhYKs=
 		</data>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		p9xlbPgGEfeniTRxHjj/YtZIrnM=
+		/mqqLvXG3qJrcZE8j8VzPemhYKs=
 		</data>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Y3/TcHrV5I70piQ68NEe2Hd0ZY4=
+		wo5SmtT2z5uOnNmq+Kg5byMki3k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -11981,14 +11981,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q3/C6jkLKRarDp5QpluT9J0yehZIXZO2M4f4koQHd0o=
+			ghHuO/xUjEkk0ONtyed9Iz6HM6b9Dzsx2RMuLnbKizM=
 			</data>
 		</dict>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZWTcYN0+CbaeRdDeFctpmEZOP03C6B3simr4cUCIw0=
+			lRJJbNx8jsA7oTHp2VscbklJKum9NuzZrkC/6k/lFJc=
 			</data>
 		</dict>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -12002,14 +12002,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZWTcYN0+CbaeRdDeFctpmEZOP03C6B3simr4cUCIw0=
+			lRJJbNx8jsA7oTHp2VscbklJKum9NuzZrkC/6k/lFJc=
 			</data>
 		</dict>
 		<key>Modules/SwiftFluentEmoji.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5I9ghLAPwa9qM3BNm/AwcNUru8kmF4XfPbZDlg3DaQc=
+			dwcZ5XZPNBVeLQumh9owBCsN4zf1EnYqiqduNcqfGiU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

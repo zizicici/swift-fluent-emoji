@@ -1,0 +1,14 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SwiftFluentEmoji
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import Swift
+@_exported import SwiftFluentEmoji
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers public class FluentEmoji {
+  public static func getSVG(_ string: Swift.String) -> Foundation.Data?
+  public static func getSVG(_ character: Swift.Character) -> Foundation.Data?
+  @objc deinit
+}
