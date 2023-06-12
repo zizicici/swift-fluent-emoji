@@ -130,43 +130,43 @@
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
-      "kind": "IntegerLiteral",
-      "offset": 644,
-      "length": 2,
-      "value": "16"
+      "kind": "StringLiteral",
+      "offset": 636,
+      "length": 6,
+      "value": "\"%04x\""
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 698,
+      "offset": 678,
       "length": 6,
       "value": "\"fe0f\""
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 765,
+      "offset": 745,
       "length": 3,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 793,
+      "offset": 773,
       "length": 10,
       "value": "\"fluent_u\""
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 959,
+      "offset": 939,
       "length": 5,
       "value": "\"svg\""
     },
     {
       "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-fluent-emoji\/Project\/FluentEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 1206,
+      "offset": 1186,
       "length": 13,
       "value": "\"url missing\""
     }
